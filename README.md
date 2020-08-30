@@ -1,2 +1,3 @@
-# exercicios-js-logica-programacao
-Exercícios de JS
+# Exercícios de JS
+
+Lista com alguns exercícios de lógica de programação em ECMAScript 6 
