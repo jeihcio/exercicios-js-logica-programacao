@@ -1,10 +1,10 @@
-var dados = {
-    Excesso: 0,
-    Multa: 0
+function Dados() {
+    this.Excesso = 0;
+    this.Multa = 0;
 };
 
 const verificarExcesso = function(pesoTomates) {
-    let resultado = new Object();
+    let resultado = new Dados();
     let pesoLimite = 50;
     let multaEmRealPorKilo = 4;
 
