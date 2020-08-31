@@ -11,14 +11,14 @@ const calcularDistancia = function(ponto1, ponto2) {
     return distancia;
 };
 
-const ponto = {
-    x: 0,
-    y: 0
+function Ponto() {
+    this.x = 0;
+    this.y = 0;
 };
 
 (function() {
-    let ponto1 = new Object(),
-        ponto2 = new Object();
+    let ponto1 = new Ponto(),
+        ponto2 = new Ponto();
 
     ponto1.x = 1;
     ponto1.y = 2;
