@@ -28,7 +28,19 @@ quaisquer no plano, P(x1, y1) e P(x2, y2), escreva a distância entre eles. A f�
 
 que efetua tal cálculo é: d = √(x2-x1)² + (y2-y1)² </p>
 
+<p><b>7</b>. Um sistema de equações lineares do tipo:</p>
+<p>ax + by = c <br/>
+dx + ey = f, pode ser resolvido segundo mostrado abaixo :</p>
 
+<p>
+  x = ce - bf / ae - bd, <br/>
+y = af - cd / ae - bd
+</p>
+
+<p>
+Escreva um sistema que lê os coeficientes a,b,c,d,e e f e calcula e mostra os
+valores de x e y.  
+</p>
 
 ## Rum
 
