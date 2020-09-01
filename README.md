@@ -50,6 +50,28 @@ escrever um sistema que leia o custo de fábrica de um carro e escreva o custo a
 consumidor.
   </p>
 
+<p><b>9</b>. João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o
+rendimento diário de seu trabalho. Toda vez que ele traz um peso de tomate maior que o
+estabelecido pelo regulamento do estado de São Paulo (50 quilos) deve pagar um multa de
+R$ 4,00 por quilo excedente. João precisa que você faça um sistema que leia a variável P
+(peso de tomates) e verifique se há excesso. Se houver, gravar na variável E (Excesso) e na
+variável M o valor da multa que João deverá pagar. Caso contrário mostrar tais variáveis
+com o conteúdo ZERO.</p>
+
+<p><b>10</b>. Elabore um sistema que leia as variáveis C e N, respectivamente código e número de
+horas trabalhadas de um operário. E calcule o salário sabendo-se que ele ganha R$ 10,00
+por hora. Quando o número de horas exceder a 50 calcule o excesso de pagamento
+armazenando-o na variável E, caso contrário zerar tal variável. A hora excedente de
+trabalho vale R$ 20,00. No final do processamento imprimir o salário total e o salário
+excedente.</p>
+
+<p>
+  <b>11</b>. Um dado é lançado 10 vezes e o valor correspondente é anotado. 
+  Faça um programa que gere um vetor com os lançamentos, escreva esse vetor. 
+  A seguir determine e imprima a média aritmética dos lançamentos, contabilize 
+  e apresente também quantas foram as ocorrências da maior pontuação 
+</p>
+
 ## Rum
 
 Executar usando o Node.js, exemplo:<br/>
